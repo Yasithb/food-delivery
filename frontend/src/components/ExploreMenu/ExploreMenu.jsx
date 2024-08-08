@@ -21,6 +21,7 @@ const ExploreMenu = () => {
           )
         })}
       </div>
+      <hr />
     </div>
   )
 }
